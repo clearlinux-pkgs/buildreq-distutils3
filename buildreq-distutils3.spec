@@ -1,6 +1,6 @@
 Name:           buildreq-distutils3
 Version:        2
-Release:        11
+Release:        12
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
