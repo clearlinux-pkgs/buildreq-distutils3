@@ -9,6 +9,8 @@ Requires:       clr-pyversion-strip
 Requires:	python3
 Requires:	python3-core
 Requires:	python3-dev
+Requires:	setuptools
+Requires:	setuptools_scm
 
 %description
 Helper files 
