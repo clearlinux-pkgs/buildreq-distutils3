@@ -11,7 +11,7 @@ Requires:	python3
 Requires:	python3-core
 Requires:	python3-dev
 Requires:	pypi(setuptools)
-Requires:	setuptools_scm
+Requires:	pypi(setuptools_scm)
 Requires:	pypi(wheel)
 
 %description
