@@ -1,6 +1,6 @@
 Name:           buildreq-distutils3
 Version:        3
-Release:        17
+Release:        18
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
@@ -13,6 +13,9 @@ Requires:	python3-dev
 Requires:	pypi(setuptools)
 Requires:	pypi(setuptools_scm)
 Requires:	pypi(wheel)
+Provides:       setuptools
+Provides:       setuptools-python
+Provides:       setuptools-python3
 
 %description
 Helper files 
